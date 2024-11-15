@@ -11,6 +11,7 @@ from io import BytesIO
 import torchvision
 
 import numpy as np
+import os
 
 from dotenv import load_dotenv
 load_dotenv()
